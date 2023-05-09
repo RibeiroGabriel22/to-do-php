@@ -1,0 +1,19 @@
+form{
+    text-align: center;
+    padding: 10px;
+}
+
+#txt{
+    width: 20%;
+    line-height: 20px;
+
+    cursor: pointer;
+    margin: 10px;
+    padding: 1px 20px;
+
+    
+}
+.btn{
+    color: white;
+    background: #6959CD;
+}
